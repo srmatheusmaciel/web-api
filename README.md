@@ -32,9 +32,12 @@ Esta é uma Web API desenvolvida com Spring Boot, destinada a gerenciar usuário
 
 2. Navegue até o diretório do projeto:
 
-  ```bash
-  cd web-api
+   ```bash
+    cd web-api
 
+3 - Compile o Projeto usando Maven:
 
+   ```bash
+    mvn clean install
 
 
